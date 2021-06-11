@@ -1,3 +1,14 @@
 <resources>
     <string name="app_name">ImageConverter</string>
+    <string name="save">Save</string>
+    <string name="pick">Pick</string>
+    <string name="cancel">Cancel</string>
+    <string name="type_image">image/*</string>
+    <string name="select_image">Select Image</string>
+    <string name="success">Success</string>
+    <string name="success_convert">Converted to png format done</string>
+    <string name="loading">Loading</string>
+    <string name="loading_message">Waiting..</string>
+    <string name="cancel_message">Conversion canceled</string>
+    <string name="uploaded_image">Uploaded Image</string>
 </resources>
